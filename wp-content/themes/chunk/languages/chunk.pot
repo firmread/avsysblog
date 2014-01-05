@@ -1,0 +1,176 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chunk 1.1-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/chunk\n"
+"POT-Creation-Date: 2013-01-02 23:39:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:22
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:13 content-link.php:11 content.php:17 image.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: content-audio.php:13 content-link.php:11 content.php:17 image.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: content-audio.php:13 content-link.php:11 content.php:17 image.php:16
+msgid "% Comments"
+msgstr ""
+
+#: content-audio.php:16 content-link.php:14 content.php:32
+msgid "All %s posts"
+msgstr ""
+
+#: content-audio.php:17 content-link.php:15 content.php:34 image.php:30
+msgid "Edit"
+msgstr ""
+
+#: content-audio.php:23 content.php:43 functions.php:165 image.php:37
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-audio.php:46 content-link.php:46 content.php:50 image.php:71
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-audio.php:47 content-link.php:47 content.php:49 image.php:72
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:49 content.php:52 image.php:74
+msgid "Tagged"
+msgstr ""
+
+#: content-link.php:50
+msgid "Tagged "
+msgstr ""
+
+#: content.php:23
+msgid "By %1$s"
+msgstr ""
+
+#: footer.php:9
+msgid "A Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:9
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:11
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:46
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Footer"
+msgstr ""
+
+#: functions.php:195
+msgid "Page %s"
+msgstr ""
+
+#: image.php:21
+msgid ""
+"<a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a> in "
+"<a href=\"%4$s\" title=\"Return to %5$s\" rel=\"gallery\">%5$s</a>"
+msgstr ""
+
+#: image.php:85 index.php:46
+msgid "Nothing Found"
+msgstr ""
+
+#: image.php:87 index.php:48
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: index.php:12
+msgid "Posted on %s &hellip;"
+msgstr ""
+
+#: index.php:14 index.php:16
+msgid "Posted in %s &hellip;"
+msgstr ""
+
+#: index.php:18
+msgid "Posted by %s &hellip;"
+msgstr ""
+
+#: index.php:20
+msgid "Filed under %s &hellip;"
+msgstr ""
+
+#: index.php:22
+msgid "Tagged with %s &hellip;"
+msgstr ""
+
+#: index.php:30
+msgid "Matches for: &ldquo;%s&rdquo; &hellip;"
+msgstr ""
+
+#: index.php:58
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: index.php:59
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Chunk"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.wordpress.com/themes/chunk/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A straightforward theme with bold typography designed by <a href=\"http://"
+"twitter.com/#!/thisistran/\">Tran N</a>. Featuring multiple post formats, "
+"custom background, custom menu, and custom header. Also comes with an "
+"optional footer widget area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""

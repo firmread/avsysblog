@@ -1,0 +1,1 @@
+[06-Jul-2012 20:34:20] PHP Fatal error:  Call to undefined function  get_header() in /home7/tothongc/public_html/spring2012/avsys/wp-content/themes/blogum/index.php on line 1
