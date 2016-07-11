@@ -1,0 +1,105 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Developer Formatter"
+msgstr ""
+
+#. Short description.
+msgid "Developer Formatter system to WordPress. Powered by GeSHi server-side highlight system."
+msgstr ""
+
+#. Screenshot description.
+msgid "The new button on the TinyMCE editor."
+msgstr ""
+
+#. Screenshot description.
+msgid "The final display of a Code with DevFormatter."
+msgstr ""
+
+#. Screenshot description.
+msgid "The DevFormatter interface on the preview page."
+msgstr ""
+
+#. Screenshot description.
+msgid "The DevFormatter interface."
+msgstr ""
+
+#. Found in description list item.
+msgid "Non-obstructive filter integration."
+msgstr ""
+
+#. Found in description list item.
+msgid "Syntax highlighting with Style attribute enabled."
+msgstr ""
+
+#. Found in description list item.
+msgid "Syntax highlighting using AJAX."
+msgstr ""
+
+#. Found in description list item.
+msgid "Syntax highlighting in RSS 2.0 feeds."
+msgstr ""
+
+#. Found in description list item.
+msgid "Syntax highlighting with PRE tags ."
+msgstr ""
+
+#. Found in description list item.
+msgid "Syntax highlighting in comments."
+msgstr ""
+
+#. Found in description list item.
+msgid "Start line number configuration."
+msgstr ""
+
+#. Found in description list item.
+msgid "Hide toolbar for a code block."
+msgstr ""
+
+#. Found in description list item.
+msgid "CSS !important to for better style."
+msgstr ""
+
+#. Found in description list item.
+msgid "New code theme (Summer)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Create a better display of codes on your page/blog.\n"
+"For everybody that publish examples, source-code and some tips about a specific language.\n"
+"This plugin do use of GeSHi highlight system, so you will have support for more then 110 languages, including PHP, ASP, Html, JavaScript, CSS, Java, Python, Delphi, C++, C, Visual Basic and much more."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "New features:"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload devformatter directory to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure as needed on WordPress Settings / DevFormatter"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "SVN browser on it."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"<a href=\"http://projects.pro.br/gsaraiva/developer-formatter/\">http://projects.pro.br/gsaraiva/developer-formatter/</a>\n"
+"<a href=\"http://wordpress.org/tags/devformatter\">http://wordpress.org/tags/devformatter</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"IF YOU'RE SEEING A MESSAGE LIKE THIS \"failed to open stream: Permission denied\"\n"
+"YOU HAVE TO CHANGE CHMOD TO 777 ON \"wp-content/plugins/devformatter/geshi/geshi\""
+msgstr ""

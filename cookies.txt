@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+avsys.tothong.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/	FALSE	1999999999	wordpress_logged_in_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/	FALSE	1999999999	wordpress_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/	FALSE	1999999999	wordpress_sec_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/	FALSE	1999999999	wordpressuser_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/	FALSE	1999999999	wordpresspass_00820d9dadacb628738ac1c50ceca62e	+
+avsys.tothong.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

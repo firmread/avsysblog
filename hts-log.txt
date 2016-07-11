@@ -1,0 +1,32 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 09 Jul 2016 06:18:57 at http://avsys.tothong.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://avsys.tothong.com -O1 "C:\My Web Sites\avsys" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:24:49	Error: 	"Method Not Allowed" (405) at link avsys.tothong.com/xmlrpc.php (from avsys.tothong.com/)
+06:24:49	Error: 	"Forbidden" (403) at link avsys.tothong.com/comments/feed/ (from avsys.tothong.com/)
+06:30:48	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/me5Zzm2TXh4/0.jpg (from avsys.tothong.com/)
+06:31:03	Warning: 	Retry after error 500 (Internal Server Error) at link avsys.tothong.com/wp-content/plugins/devformatter/devcommon.php (from avsys.tothong.com/wp-content/plugins/devformatter/)
+06:31:03	Warning: 	Retry after error 500 (Internal Server Error) at link avsys.tothong.com/wp-content/plugins/devformatter/devformatter.php (from avsys.tothong.com/wp-content/plugins/devformatter/)
+06:31:05	Error: 	"Forbidden" (403) at link avsys.tothong.com/wp-content/plugins/devformatter/readme.txt (from avsys.tothong.com/wp-content/plugins/devformatter/)
+06:31:22	Warning: 	Retry after error -4 (No data (connection closed)) at link avsys.tothong.com/wp-content/uploads/2012/02/4.mp3 (from avsys.tothong.com/category/homework/)
+06:31:26	Error: 	"Error when decompressing" (-1) at link avsys.tothong.com/note-●-6-●/ (from avsys.tothong.com/category/note/)
+06:31:26	Error: 	"Error when decompressing" (-1) at link avsys.tothong.com/note-●-5/ (from avsys.tothong.com/category/note/)
+06:31:26	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/8y8BzEILdDw/0.jpg (from avsys.tothong.com/category/note/)
+06:31:26	Error: 	"Not Found" (404) at link https://img.youtube.com/vi/_SGwDhKTrwU/0.jpg (from avsys.tothong.com/category/note/)
+06:31:40	Warning: 	Moved Temporarily for avsys.tothong.com/wp-admin/
+06:31:40	Warning: 	File has moved from avsys.tothong.com/wp-admin/ to http://avsys.tothong.com/wp-login.php?redirect_to=http%3A%2F%2Favsys.tothong.com%2Fwp-admin%2F&reauth=1
+06:31:41	Error: 	"Not Found" (404) at link avsys.tothong.com/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from s.gravatar.com/js/gprofiles.js?ver=2016Julaa)
+06:31:41	Error: 	"Not Found" (404) at link avsys.tothong.com/g.gif (from stats.wp.com/e-201627.js)
+06:31:41	Error: 	"Not Found" (404) at link avsys.tothong.com/c.gif (from stats.wp.com/e-201627.js)
+06:31:41	Warning: 	Retry after error 500 (Internal Server Error) at link avsys.tothong.com/wp-content/plugins/devformatter/devcommon.php (from avsys.tothong.com/wp-content/plugins/devformatter/)
+06:31:41	Warning: 	Retry after error 500 (Internal Server Error) at link avsys.tothong.com/wp-content/plugins/devformatter/devformatter.php (from avsys.tothong.com/wp-content/plugins/devformatter/)
+06:31:43	Error: 	"Internal Server Error" (500) after 2 retries at link avsys.tothong.com/wp-content/plugins/devformatter/devcommon.php (from avsys.tothong.com/wp-content/plugins/devformatter/)
+06:31:43	Error: 	"Internal Server Error" (500) after 2 retries at link avsys.tothong.com/wp-content/plugins/devformatter/devformatter.php (from avsys.tothong.com/wp-content/plugins/devformatter/)
+06:31:43	Error: 	"Not Found" (404) at link avsys.tothong.com/wp-admin/&reauth=1 (from avsys.tothong.com/wp-login.php?redirect_to=http%3A%2F%2Favsys.tothong.com%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 12 minutes 46 seconds : 281 links scanned, 260 files written (17473686 bytes overall) [16771318 bytes received at 21894 bytes/sec], 1306514 bytes transferred using HTTP compression in 119 files, ratio 33%, 2.2 requests per connection
+(14 errors, 7 warnings, 0 messages)

@@ -1,0 +1,96 @@
+﻿/*
+Developer Formater
+http://wordpress.org/extend/plugins/devformatter/
+Developer Formatter system to WordPress. Powered by <a href="http://qbnz.com/highlighter/">GeSHi</a> server-side highlight system.
+Version: 2015.0.2.1
+Author: Gilberto Saraiva
+Author URI: http://gsaraiva.projects.pro.br/
+
+Copyright (c) 2013 Gilberto Saraiva
+Released under the GNU General Public License (GPL)
+http://www.gnu.org/licenses/gpl.txt
+*/
+.devcodeblock, .devcodeblock * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  overflow: visible;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+table.devcodearea, table.devcodetools {
+  border-collapse: collapse;
+  float: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  outline: 0 !important;
+  height: 16px;
+  width: 100%;
+}
+table.devcodetools tr td {
+  border-collapse: collapse;
+  line-height: 16px;
+  list-style-image: none;
+  list-style-type: none;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  outline: 0 !important;
+  text-align: left !important;
+}
+table.devcodearea tr td {
+  border-top: 0 !important;
+  border-left: 0 !important;
+  border-bottom: 0 !important;
+}
+.devcodeoverflow {
+  border: 1px solid #ccc;
+  float: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  outline: 0 !important;
+}
+.devcode, .devcodelines, .devcodeblock, .devcodetools {
+  font-size: 12px;
+  font-family: courier new;
+  font-weight: normal;
+}
+.devcode {
+  padding: 0px 5px;
+  color: #000;
+  border: 1px solid #5A9AC0;
+  text-align: left !important;
+}
+.devcodeline {
+  border: 0px;
+}
+.devcodeoverflow {
+  margin: 1px;
+  overflow: auto;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+.devcodelines {
+  padding-left: 5px;
+  padding-right: 5px;
+  background: #ccc;
+  color: #000;
+  border-right: 4px solid #999;
+}
+.devcodelinesodd {
+  background: #eee;
+}
+.devcodelinesarea {
+  background: #fff;
+}
+.devcodelinesareaodd {
+  background: #f0f0f0;
+}
+.devcodetools {
+  background: transparent;
+  color: #000;
+  text-align: left;
+}

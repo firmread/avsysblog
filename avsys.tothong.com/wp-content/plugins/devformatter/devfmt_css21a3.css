@@ -1,0 +1,44 @@
+﻿﻿﻿﻿﻿﻿  .devcode, .devcodelines, .devcodeblock, .devcodetools {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 12px !important;
+    font-family: courier new !important;
+  }
+  .devcode {
+    padding: 0px 5px !important;
+    color: #000 !important;
+    border: 1px solid #5A9AC0 !important;
+  }
+  .devcodeline {
+    border: 0px !important;
+  }
+  .devcodeoverflow {
+    margin: 1px !important;
+    overflow: auto !important;
+    overflow-x: auto !important;
+    overflow-y: auto !important;
+  }
+  .devcodelines {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    background: #729EB9 !important;
+    color: #fff !important;
+    border-right: 4px solid #6E6 !important;
+  }
+  .devcodelinesodd {
+    background: #628EA9 !important;
+  }
+  .devcodelinesarea {
+    background: #fff !important;
+  }
+  .devcodelinesareaodd {
+    background: #f0f0f0 !important;
+  }
+  .devcodetools {
+    background: transparent !important;
+    color: #000 !important;
+    text-align: left !important;
+  }
+  .devcodetools span {
+    cursor: pointer !important;
+  }
